@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yanisai83" target="blank"><img src="https://img.shields.io/twitter/follow/yanisai83?logo=twitter&style=for-the-badge" alt="yanisai83" /></a> </p>
 
-- Certains de mes projets sont en privé 
+- Certains de mes projets sont en privé, contactez moi si vous voulez découvrir d'autres projets auxquels j'ai participé
 
 - 📫 How to reach me **yanis.athamnia2@gmail.com**
 
